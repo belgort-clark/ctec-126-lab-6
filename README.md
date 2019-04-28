@@ -92,4 +92,4 @@ Here is what my finished page looks like:
 | changeStyle function | 6.5 | 3.25 | 0 |
 | show function | 6.5 | 3.25 | 0 |
 | hide function | 6.5 | 3.25 | 0 |
-| Overall page works according to specifications | 11 | 3.25 | 0 |
+| Overall page works according to specifications | 11 | 5.5 | 0 |
