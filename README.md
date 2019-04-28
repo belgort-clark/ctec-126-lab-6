@@ -54,7 +54,7 @@ Now in the [lab6.html](lab6.html) file:
 
 Now back to the **dom.js** file:
 
-1. Create a function named **clearMyOutputDiv** that will set the **innerHTML** of the **myoutput** div to nothing. You can do this with one line of JavaScript code in your function.
+1. Create a function named **clearMyOutputDiv** that will set the **innerHTML** of the **myoutput** div to nothing (empty). You can do this with one line of JavaScript code in your function.
 2. Now you are to re-write all of the functions you wrote above to display their output to the **myoutput** div rather than using alerts (countElements, displayElementText, displayElementAttributes, displayElementsContentByClassName).
 3. When you rename these functions use the same names BUT use &&**myOutput_** as a prefix. So the **countElements** function would be **myOutput_countElements**. Don't change your original functions as you will still need them.
 
@@ -74,3 +74,22 @@ Now back to the **dom.js** file:
 Here is what my finished page looks like:
 
 ![lab6-finished.png](misc/lab6-finished.png)
+
+## Grading Rubric
+
+| Item | Full Marks | Partial Marks | No Marks  |
+|:--|:--|:--|:--|
+| HTML and buttons created according to specification and valid | 11 | 5.5 | 0 |
+| countElements function | 6.5 | 3.25 | 0 |
+| displayElementText function | 6.5 | 3.25 | 0 |
+| displayElementAttributes function | 6.5 | 3.25 | 0 |
+| displayElementsContentByClassName function | 6.5 | 3.25 | 0 |
+| myOutput_countElements function | 6.5 | 3.25 | 0 |
+| myOutput_displayElementText function | 6.5 | 3.25 | 0 |
+| myOutput_displayElementAttributes function | 6.5 | 3.25 | 0 |
+| myOutput_displayElementsContentByClassName function | 6.5 | 3.25 | 0 |
+| clearMyOutpDiv function | 6.5 | 3.25 | 0 |
+| changeStyle function | 6.5 | 3.25 | 0 |
+| show function | 6.5 | 3.25 | 0 |
+| hide function | 6.5 | 3.25 | 0 |
+| Overall page works according to specifications | 11 | 3.25 | 0 |
