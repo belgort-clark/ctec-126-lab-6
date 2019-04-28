@@ -1,8 +1,12 @@
 # CTEC 126 - Lab No. 6
 
-## Exploring the DOM
+## Exploring the DOM with JavaScript
 
-Follow these steps:
+This assignment will have you first create some HTML. You will then add some additional HTML that I have prepared. Finally, you will develop some JavaScript code functions to perform specific operatons.
+
+Please follow the instructions carefully and let me know on Slack if you have any questions.
+
+## Instructions
 
 1. Use the [lab6.html](lab6.html) page provided
 2. Use the CSS file [dom.css](css/dom.css) provided
