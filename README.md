@@ -4,7 +4,7 @@
 
 Follow these steps:
 
-1. Use the [lab6.html](lab6.htm) page provided
+1. Use the [lab6.html](lab6.html) page provided
 2. Use the CSS file [dom.css](css/dom.css) provided
 3. In the HTML file create the following:
   - A header div to hold an h1, h2. Give the header div an id of "header".
